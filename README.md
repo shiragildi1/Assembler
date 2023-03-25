@@ -1,3 +1,3 @@
 # Assembler
 to run: make
-./run 
+./run test1
