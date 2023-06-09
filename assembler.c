@@ -1,5 +1,4 @@
-/*@autors: Pessy Israeli 215299702
-		Shira Giladi 213707235*/
+/*@autors: Shira Giladi 213707235*/
 
 
 #include "utils.h"
